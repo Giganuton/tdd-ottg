@@ -277,3 +277,54 @@ console.warn: LoginRecipes: "Falling back to a synchronous message for: http://1
 console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8000."
 1694877214376	Marionette	INFO	Stopped listening on port 37852
 Dynamically enable window occlusion 1
+1694880666289	geckodriver	INFO	Listening on 127.0.0.1:38205
+1694880669356	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\STEVEN~1\\AppData\\Local\\Temp\\rust_mozprofilecdShJs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694880669921	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694880670607	Marionette	INFO	Listening on port 38215
+Read port: 38215
+1694880670851	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8000."
+1694880673707	Marionette	INFO	Stopped listening on port 38215
+Dynamically enable window occlusion 1
+1694880838860	geckodriver	INFO	Listening on 127.0.0.1:38247
+1694880841896	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\STEVEN~1\\AppData\\Local\\Temp\\rust_mozprofilez5CrUr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694880842235	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694880842517	Marionette	INFO	Listening on port 38257
+Read port: 38257
+1694880842693	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8000."
+1694880845258	Marionette	INFO	Stopped listening on port 38257
+Dynamically enable window occlusion 1
+1694880889455	geckodriver	INFO	Listening on 127.0.0.1:38288
+1694880892499	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\STEVEN~1\\AppData\\Local\\Temp\\rust_mozprofileq22Riu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694880892835	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694880893112	Marionette	INFO	Listening on port 38298
+Read port: 38298
+1694880893284	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8000."
+1694880896009	Marionette	INFO	Stopped listening on port 38298
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/UrlClassifierListManager.sys.mjs, line 720: TypeError: this.tablesData[table] is undefined
+1694880930442	geckodriver	INFO	Listening on 127.0.0.1:38340
+1694880933490	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\STEVEN~1\\AppData\\Local\\Temp\\rust_mozprofilemvp41S"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694880933837	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694880934287	Marionette	INFO	Listening on port 38350
+Read port: 38350
+1694880934472	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8000."
+1694880939119	Marionette	INFO	Stopped listening on port 38350
+Dynamically enable window occlusion 1
